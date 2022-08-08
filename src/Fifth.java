@@ -5,7 +5,7 @@ public class Fifth {
 		// TODO Auto-generated method stub
 
 		int a=10;
-		System.out.println(a);
+		
 	}
 
 }
